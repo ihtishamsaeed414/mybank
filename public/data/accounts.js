@@ -1,7 +1,7 @@
 export const accounts = [
   {
     id: 1,
-    owner: "Ihtisham Saeed",
+    owner: "admin",
     movements: [
       {
         amount: 200,
